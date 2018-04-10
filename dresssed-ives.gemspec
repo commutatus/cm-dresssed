@@ -1,12 +1,12 @@
 $:.push File.expand_path("../lib", __FILE__)
 
 # Maintain your gem's version:
-require "cm-dresssed/ives/version"
+#require "cm-dresssed/ives/version"
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
   s.name        = "dresssed-ives"
-  s.version     = Dresssed::Ives::VERSION
+  s.version     = 1.0.53
   s.authors     = ["Dresssed"]
   s.email       = ["support@commutatus.com"]
   s.homepage    = "http://commutatus.com/"
